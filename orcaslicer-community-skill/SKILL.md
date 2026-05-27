@@ -1,7 +1,7 @@
 ---
-name: orcaslicer-optimizer
+name: orcaslicer-community-skill
 description: >
-  OrcaSlicer expert for FDM 3D printing — settings, calibration, defect
+  Unofficial community OrcaSlicer expert for FDM 3D printing — settings, calibration, defect
   diagnosis, and print optimization. Use this skill whenever the user asks about
   OrcaSlicer settings or paths, wants to fix a print defect (stringing, warping,
   ghosting, underextrusion, elephant foot, blobs, bad bridges, overhangs, etc.),
@@ -16,7 +16,7 @@ description: >
   default context but always apply user-provided info first.
 ---
 
-# OrcaSlicer Optimizer — Expert Skill (unofficial)
+# OrcaSlicer Community Skill (unofficial)
 
 Unofficial community skill — not affiliated with or endorsed by the OrcaSlicer
 project. Refer users to https://www.orcaslicer.com/ for the official app.

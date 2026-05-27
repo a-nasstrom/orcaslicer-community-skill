@@ -1,4 +1,4 @@
-# OrcaSlicer Optimizer — Claude Skill (unofficial)
+# OrcaSlicer Community Skill (unofficial)
 
 A community Claude skill that acts as an expert assistant for FDM 3D printing
 optimization **in** [OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer). It
@@ -71,7 +71,7 @@ and setting names stay current.
 
 ### Option 1 — Install `.skill` file directly
 
-1. Download `orcaslicer-optimizer.skill` from the
+1. Download `orcaslicer-community-skill.skill` from the
    [Releases](../../releases) page
 2. Open Claude desktop app (Cowork mode)
 3. Click **Save skill** when prompted, or drag the file into the skills panel
@@ -79,10 +79,10 @@ and setting names stay current.
 ### Option 2 — Clone and use the SKILL.md
 
 ```
-git clone https://github.com/a-nasstrom/orcaslicer-optimizer-skill.git
+git clone https://github.com/a-nasstrom/orcaslicer-community-skill.git
 ```
 
-The skill is in `orcaslicer-optimizer/SKILL.md`.
+The skill is in `orcaslicer-community-skill/SKILL.md`.
 
 ---
 
