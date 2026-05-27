@@ -1,8 +1,18 @@
-# OrcaSlicer Optimizer — Claude Skill
+# OrcaSlicer Optimizer — Claude Skill (unofficial)
 
-A Claude skill that acts as an expert assistant for FDM 3D printing optimization
-in OrcaSlicer. It fetches live documentation from the official OrcaSlicer wiki
-before answering, so paths and setting names are always current.
+A community Claude skill that acts as an expert assistant for FDM 3D printing
+optimization **in** [OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer). It
+fetches live documentation from the
+[OrcaSlicer wiki](https://www.orcaslicer.com/wiki/) before answering, so paths
+and setting names stay current.
+
+> **Disclaimer:** This project is **not** affiliated with, endorsed by, or
+> maintained by the OrcaSlicer project or its contributors. **OrcaSlicer** is
+> the name of the open-source slicer; trademarks and logos belong to their
+> respective owners. Download OrcaSlicer only from
+> [www.orcaslicer.com](https://www.orcaslicer.com/) or
+> [GitHub Releases](https://github.com/OrcaSlicer/OrcaSlicer/releases). Do not
+> use the OrcaSlicer logo in this repository or in packaging without permission.
 
 ---
 
@@ -163,4 +173,11 @@ All via the built-in **Calibration tab** in OrcaSlicer.
 
 ## License
 
-MIT — use freely, modify as needed, contributions welcome.
+This skill (README and `SKILL.md`) is released under the **MIT License** — see
+[LICENSE](LICENSE) if present, or the MIT terms in the repository.
+
+[OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) itself is licensed under
+**AGPL-3.0** ([LICENSE.txt](https://github.com/OrcaSlicer/OrcaSlicer/blob/main/LICENSE.txt)).
+That license covers **their source code**, not this skill. AGPL does **not** grant
+trademark rights (see AGPL §7(e)). This repository does **not** include
+OrcaSlicer binaries or source code.
